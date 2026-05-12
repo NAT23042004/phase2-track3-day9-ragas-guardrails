@@ -1,0 +1,91 @@
+{
+  "aggregate": {
+    "faithfulness": 1.0,
+    "answer_relevancy": 1.0,
+    "context_precision": 1.0,
+    "context_recall": 1.0
+  },
+  "num_questions": 0,
+  "failures": [
+    {
+      "question": "What is the name of the company mentioned in the tax declaration form?",
+      "avg_score": 0.75,
+      "worst_metric": "context_recall",
+      "score": 0.5,
+      "diagnosis": "Missing relevant chunks",
+      "suggested_fix": "Improve chunking or add BM25"
+    },
+    {
+      "question": "Who is TRỊNH THỊ SANG in the context of the document?",
+      "avg_score": 0.75,
+      "worst_metric": "context_recall",
+      "score": 0.5,
+      "diagnosis": "Missing relevant chunks",
+      "suggested_fix": "Improve chunking or add BM25"
+    },
+    {
+      "question": "How does the Socialist Republic of Vietnam ensure compliance with personal data protection regulations?",
+      "avg_score": 0.75,
+      "worst_metric": "context_recall",
+      "score": 0.5,
+      "diagnosis": "Missing relevant chunks",
+      "suggested_fix": "Improve chunking or add BM25"
+    },
+    {
+      "question": "What rights does a data subject have according to the information on Trang 8 regarding personal data protection activities?",
+      "avg_score": 0.75,
+      "worst_metric": "context_recall",
+      "score": 0.5,
+      "diagnosis": "Missing relevant chunks",
+      "suggested_fix": "Improve chunking or add BM25"
+    },
+    {
+      "question": "Bộ luật Dân sự có gì liên quan đến bảo vệ dữ liệu cá nhân?",
+      "avg_score": 0.75,
+      "worst_metric": "context_recall",
+      "score": 0.5,
+      "diagnosis": "Missing relevant chunks",
+      "suggested_fix": "Improve chunking or add BM25"
+    },
+    {
+      "question": "What are the key provisions outlined in Điều 14 regarding the provision of personal data?",
+      "avg_score": 0.75,
+      "worst_metric": "context_recall",
+      "score": 0.5,
+      "diagnosis": "Missing relevant chunks",
+      "suggested_fix": "Improve chunking or add BM25"
+    },
+    {
+      "question": "What are the requirements for submitting a request for personal data using Mẫu số 01 according to the data protection regulations?",
+      "avg_score": 0.75,
+      "worst_metric": "context_recall",
+      "score": 0.5,
+      "diagnosis": "Missing relevant chunks",
+      "suggested_fix": "Improve chunking or add BM25"
+    },
+    {
+      "question": "Chủ thể dữ liệu có quyền gì trong việc truy cập và chỉnh sửa dữ liệu cá nhân của mình theo quy định hiện hành?",
+      "avg_score": 0.75,
+      "worst_metric": "context_recall",
+      "score": 0.5,
+      "diagnosis": "Missing relevant chunks",
+      "suggested_fix": "Improve chunking or add BM25"
+    },
+    {
+      "question": "Tổ chức có thể yêu cầu xóa dữ liệu cá nhân trong những trường hợp nào?",
+      "avg_score": 0.75,
+      "worst_metric": "context_recall",
+      "score": 0.5,
+      "diagnosis": "Missing relevant chunks",
+      "suggested_fix": "Improve chunking or add BM25"
+    },
+    {
+      "question": "quốc phòng là gì trong xử lý dữ liệu cá nhân?",
+      "avg_score": 0.75,
+      "worst_metric": "context_recall",
+      "score": 0.5,
+      "diagnosis": "Missing relevant chunks",
+      "suggested_fix": "Improve chunking or add BM25"
+    }
+  ]
+}

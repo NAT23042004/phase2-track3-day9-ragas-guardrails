@@ -1,0 +1,11 @@
+pair_id,human_winner,notes
+1,tie,Both answers are just headers from the document.
+2,tie,Both variants provide the same boilerplate information.
+3,B,Answer B provides more specific context about the taxpayer.
+4,B,Answer B is more concise and focused on the relevant entity.
+5,tie,Neither answer addresses the question directly; both are fragments.
+6,B,Answer B includes the identity of the signer, which is a key detail.
+7,tie,Both answers contain the same core information about the signatory.
+8,tie,Both are just headers from the decree.
+9,tie,Both are identical legal base references.
+10,B,Answer B directly addresses the regulation summary while Answer A is just a number.

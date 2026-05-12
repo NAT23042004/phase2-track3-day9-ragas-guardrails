@@ -1,0 +1,1312 @@
+
+==================================================
+QUERY: What is the name of the company mentioned in the tax declaration form?
+--------------------------------------------------
+STEP 1: HYBRID SEARCH (TOP 8)
+  [0] Score: 0.0164 | Method: hybrid | Source: Nghi_dinh_so_13.md
+      Text: [Ngữ cảnh: Đoạn văn nói về bảo vệ dữ liệu cá nhân và sự đồng ý của chủ thể dữ liệu.]
+
+đích để chủ thể dữ liệu đồng ý với một hoặc nhiều mục đích nêu ra.
+
+5. Sự đồng ý của chủ thể dữ liệu phải được thể...
+  [1] Score: 0.0164 | Method: hybrid | Source: Nghi_dinh_so_13.md
+      Text: [Ngữ cảnh: Đoạn văn liệt kê các mẫu biểu liên quan đến dữ liệu cá nhân.]
+
+............................................
+
+4. Nơi cư trú2: ...................................................................
+  [2] Score: 0.0161 | Method: hybrid | Source: Nghi_dinh_so_13.md
+      Text: [Ngữ cảnh: Đoạn văn nói về yêu cầu cung cấp dữ liệu cá nhân.]
+
+iệu cá nhân
+
+Khi nhận được yêu cầu cung cấp dữ liệu cá nhân hợp lệ, Bên Kiểm soát dữ liệu cá nhân, Bên Kiểm soát và xử lý dữ liệu cá nhân...
+  [3] Score: 0.0161 | Method: hybrid | Source: Nghi_dinh_so_13.md
+      Text: [Ngữ cảnh: Đoạn văn trình bày mẫu hồ sơ đánh giá tác động xử lý dữ liệu cá nhân.]
+
+.........  
+   - Chức danh:........................................................................  
+   - Số điện th...
+  [4] Score: 0.0159 | Method: hybrid | Source: Nghi_dinh_so_13.md
+      Text: [Ngữ cảnh: Đoạn văn hướng dẫn yêu cầu cung cấp dữ liệu cá nhân.]
+
+khó khăn trong nhận thức và làm chủ hành vi...  
+2 Ghi nơi cư trú của người đại diện/người giám hộ.  
+3 Ghi số điện thoại, fax, email ...
+
+STEP 2: RERANKING (TOP 3)
+  [0] Score: 0.0002 | Source: Nghi_dinh_so_13.md
+      Text: [Ngữ cảnh: Đoạn văn hướng dẫn yêu cầu cung cấp dữ liệu cá nhân.]
+
+khó khăn trong nhận thức và làm chủ hành vi...  
+2 Ghi nơi cư trú của người đại diện/người giám hộ.  
+3 Ghi số điện thoại, fax, email ...
+  [1] Score: 0.0002 | Source: Nghi_dinh_so_13.md
+      Text: [Ngữ cảnh: Đoạn văn liệt kê các mẫu biểu liên quan đến dữ liệu cá nhân.]
+
+............................................
+
+4. Nơi cư trú2: ...................................................................
+  [2] Score: 0.0001 | Source: Nghi_dinh_so_13.md
+      Text: [Ngữ cảnh: Đoạn văn mô tả mẫu thông báo vi phạm bảo vệ dữ liệu cá nhân.]
+
+ự chịu trách nhiệm bảo vệ dữ liệu cá nhân:  
+     Họ và tên: ....................................................................
+
+STEP 3: GENERATED ANSWER
+Answer: Không tìm thấy thông tin trong tài liệu.
+==================================================
+
+==================================================
+QUERY: Who is TRỊNH THỊ SANG in the context of the document?
+--------------------------------------------------
+STEP 1: HYBRID SEARCH (TOP 8)
+  [0] Score: 0.0315 | Method: hybrid | Source: BCTC.md
+      Text: [Ngữ cảnh: Đoạn văn nói về bảo vệ và xử lý dữ liệu cá nhân.]
+
+## Trang 2
+
+Tôi cam đoan số liệu khai trên là đúng và chịu trách nhiệm trước pháp luật về số liệu đã khai./.
+
+Ngày 24 tháng 01 năm 2025
+
+*...
+  [1] Score: 0.0164 | Method: hybrid | Source: Nghi_dinh_so_13.md
+      Text: [Ngữ cảnh: Đoạn văn mô tả quy trình thay đổi hồ sơ và cam kết trách nhiệm.]
+
+2. **Mô tả tóm tắt thay đổi nội dung hồ sơ**  
+   - Nội dung thay đổi:........................................................
+  [2] Score: 0.0161 | Method: hybrid | Source: Nghi_dinh_so_13.md
+      Text: [Ngữ cảnh: Đoạn văn nói về bảo vệ dữ liệu cá nhân và sự đồng ý của chủ thể dữ liệu.]
+
+đích để chủ thể dữ liệu đồng ý với một hoặc nhiều mục đích nêu ra.
+
+5. Sự đồng ý của chủ thể dữ liệu phải được thể...
+  [3] Score: 0.0161 | Method: hybrid | Source: Nghi_dinh_so_13.md
+      Text: [Ngữ cảnh: Đoạn văn mô tả quy trình báo cáo vi phạm bảo vệ dữ liệu cá nhân.]
+
+2. **Mô tả hành vi vi phạm quy định bảo vệ dữ liệu cá nhân**  
+   - Thời gian: ..............................................
+  [4] Score: 0.0159 | Method: hybrid | Source: Nghi_dinh_so_13.md
+      Text: [Ngữ cảnh: Đoạn văn nói về yêu cầu cung cấp dữ liệu cá nhân.]
+
+iệu cá nhân
+
+Khi nhận được yêu cầu cung cấp dữ liệu cá nhân hợp lệ, Bên Kiểm soát dữ liệu cá nhân, Bên Kiểm soát và xử lý dữ liệu cá nhân...
+
+STEP 2: RERANKING (TOP 3)
+  [0] Score: 0.4697 | Source: BCTC.md
+      Text: [Ngữ cảnh: Đoạn văn nói về bảo vệ và xử lý dữ liệu cá nhân.]
+
+## Trang 2
+
+Tôi cam đoan số liệu khai trên là đúng và chịu trách nhiệm trước pháp luật về số liệu đã khai./.
+
+Ngày 24 tháng 01 năm 2025
+
+*...
+  [1] Score: 0.0006 | Source: Nghi_dinh_so_13.md
+      Text: [Ngữ cảnh: Đoạn văn hướng dẫn yêu cầu cung cấp dữ liệu cá nhân.]
+
+khó khăn trong nhận thức và làm chủ hành vi...  
+2 Ghi nơi cư trú của người đại diện/người giám hộ.  
+3 Ghi số điện thoại, fax, email ...
+  [2] Score: 0.0002 | Source: Nghi_dinh_so_13.md
+      Text: [Ngữ cảnh: Đoạn văn trình bày hồ sơ đánh giá tác động xử lý dữ liệu cá nhân gửi Bộ Công an.]
+
+háng ... năm ... tại ...
+   - Điện thoại: ................. Website .........................................
+
+STEP 3: GENERATED ANSWER
+Answer: Không tìm thấy thông tin trong tài liệu.
+==================================================
+
+==================================================
+QUERY: What are the regulations regarding the transfer of personal data of công dân Việt Nam?
+--------------------------------------------------
+STEP 1: HYBRID SEARCH (TOP 8)
+  [0] Score: 0.0310 | Method: hybrid | Source: Nghi_dinh_so_13.md
+      Text: [Ngữ cảnh: Đoạn văn nói về hồ sơ đánh giá tác động xử lý dữ liệu cá nhân.]
+
+ba.
+
+2. Hồ sơ đánh giá tác động chuyển dữ liệu cá nhân ra nước ngoài, gồm:
+
+a) Thông tin và chi tiết liên lạc của Bên chuyển...
+  [1] Score: 0.0309 | Method: hybrid | Source: Nghi_dinh_so_13.md
+      Text: [Ngữ cảnh: Nghị định về bảo vệ dữ liệu cá nhân và trách nhiệm thi hành.]
+
+a;
+- Ngân hàng Chính sách xã hội;
+- Ngân hàng Phát triển Việt Nam;
+- Ủy ban trung ương Mặt trận Tổ quốc Việt Nam;
+- Cơ quan tr...
+  [2] Score: 0.0308 | Method: hybrid | Source: Nghi_dinh_so_13.md
+      Text: [Ngữ cảnh: Đoạn văn nói về quy định chuyển dữ liệu cá nhân ra nước ngoài.]
+
+liệu cá nhân của công dân Việt Nam.
+
+Mục 4
+BIỆN PHÁP, ĐIỀU KIỆN BẢO ĐẢM BẢO VỆ DỮ LIỆU CÁ NHÂN
+
+Điều 26. Biện pháp bảo vệ dữ...
+  [3] Score: 0.0164 | Method: hybrid | Source: Nghi_dinh_so_13.md
+      Text: [Ngữ cảnh: Đoạn văn nói về các khái niệm liên quan đến dữ liệu cá nhân.]
+
+am hoặc sử dụng một địa điểm nằm ngoài lãnh thổ của nước Cộng hòa xã hội chủ nghĩa Việt Nam để xử lý dữ liệu cá nhân của công ...
+  [4] Score: 0.0161 | Method: hybrid | Source: Nghi_dinh_so_13.md
+      Text: [Ngữ cảnh: Nghị định số 13/2023 quy định về bảo vệ dữ liệu cá nhân.]
+
+UNG
+
+**Điều 1. Phạm vi điều chỉnh và đối tượng áp dụng**
+
+1. Nghị định này quy định về bảo vệ dữ liệu cá nhân và trách nhiệm bảo v...
+
+STEP 2: RERANKING (TOP 3)
+  [0] Score: 0.9566 | Source: Nghi_dinh_so_13.md
+      Text: [Ngữ cảnh: Đoạn văn mô tả quy định về xử lý dữ liệu cá nhân của công dân Việt Nam khi chuyển ra nước ngoài.]
+
+a các tổ chức, cá nhân chuyển và nhận dữ liệu cá nhân của Công dân Việt Nam về việc xử lý ...
+  [1] Score: 0.9143 | Source: Nghi_dinh_so_13.md
+      Text: [Ngữ cảnh: Đoạn văn nói về quy định chuyển dữ liệu cá nhân ra nước ngoài.]
+
+liệu cá nhân của công dân Việt Nam.
+
+Mục 4
+BIỆN PHÁP, ĐIỀU KIỆN BẢO ĐẢM BẢO VỆ DỮ LIỆU CÁ NHÂN
+
+Điều 26. Biện pháp bảo vệ dữ...
+  [2] Score: 0.7414 | Source: Nghi_dinh_so_13.md
+      Text: [Ngữ cảnh: Đoạn văn nói về các khái niệm liên quan đến dữ liệu cá nhân.]
+
+am hoặc sử dụng một địa điểm nằm ngoài lãnh thổ của nước Cộng hòa xã hội chủ nghĩa Việt Nam để xử lý dữ liệu cá nhân của công ...
+
+STEP 3: GENERATED ANSWER
+Answer: Không tìm thấy thông tin trong tài liệu.
+==================================================
+
+==================================================
+QUERY: Dữ liệu cá nhân có thể được xử lý như thế nào theo quy định?
+--------------------------------------------------
+STEP 1: HYBRID SEARCH (TOP 8)
+  [0] Score: 0.0325 | Method: hybrid | Source: Nghi_dinh_so_13.md
+      Text: [Ngữ cảnh: Đoạn văn nói về quy định xử lý và bảo vệ dữ liệu cá nhân.]
+
+nh với các nguyên tắc xử lý dữ liệu đó.
+
+Điều 4. Xử lý vi phạm quy định bảo vệ dữ liệu cá nhân
+
+Cơ quan, tổ chức, cá nhân vi phạm...
+  [1] Score: 0.0164 | Method: hybrid | Source: Nghi_dinh_so_13.md
+      Text: [Ngữ cảnh: Đoạn văn nói về quyền của chủ thể dữ liệu trong việc chỉnh sửa và xóa dữ liệu cá nhân.]
+
+c) Phân đối việc xử lý dữ liệu và Bên Kiểm soát dữ liệu cá nhân, Bên Kiểm soát và xử lý dữ liệu cá n...
+  [2] Score: 0.0161 | Method: hybrid | Source: Nghi_dinh_so_13.md
+      Text: [Ngữ cảnh: Đoạn văn nói về quyền của chủ thể dữ liệu trong việc chỉnh sửa và xóa dữ liệu cá nhân.]
+
+cá nhân, Bên Kiểm soát và xử lý dữ liệu cá nhân chỉnh sửa dữ liệu cá nhân của mình.
+
+2. Bên Kiểm soá...
+  [3] Score: 0.0159 | Method: hybrid | Source: Nghi_dinh_so_13.md
+      Text: [Ngữ cảnh: Đoạn văn nói về quyền và quy trình liên quan đến sự đồng ý của chủ thể dữ liệu.]
+
+0. Trong trường hợp có tranh chấp, trách nhiệm chứng minh sự đồng ý của chủ thể dữ liệu thuộc về Bên Kiểm s...
+  [4] Score: 0.0159 | Method: hybrid | Source: Nghi_dinh_so_13.md
+      Text: [Ngữ cảnh: Đoạn văn nói về cơ quan và điều kiện bảo vệ dữ liệu cá nhân.]
+
+á nhân được chỉ định trong cơ quan, tổ chức, doanh nghiệp nhằm bảo đảm thực hiện quy định về bảo vệ dữ liệu cá nhân;
+
+c) Tổ ch...
+
+STEP 2: RERANKING (TOP 3)
+  [0] Score: 0.9734 | Source: Nghi_dinh_so_13.md
+      Text: [Ngữ cảnh: Đoạn văn nói về quy định xử lý và bảo vệ dữ liệu cá nhân.]
+
+nh với các nguyên tắc xử lý dữ liệu đó.
+
+Điều 4. Xử lý vi phạm quy định bảo vệ dữ liệu cá nhân
+
+Cơ quan, tổ chức, cá nhân vi phạm...
+  [1] Score: 0.9492 | Source: Nghi_dinh_so_13.md
+      Text: [Ngữ cảnh: Đoạn văn nói về quyền của chủ thể dữ liệu trong việc chỉnh sửa và xóa dữ liệu cá nhân.]
+
+cá nhân, Bên Kiểm soát và xử lý dữ liệu cá nhân chỉnh sửa dữ liệu cá nhân của mình.
+
+2. Bên Kiểm soá...
+  [2] Score: 0.9486 | Source: Nghi_dinh_so_13.md
+      Text: [Ngữ cảnh: Đoạn văn nói về quyền của chủ thể dữ liệu trong việc chỉnh sửa và xóa dữ liệu cá nhân.]
+
+c) Phân đối việc xử lý dữ liệu và Bên Kiểm soát dữ liệu cá nhân, Bên Kiểm soát và xử lý dữ liệu cá n...
+
+STEP 3: GENERATED ANSWER
+Answer: Dữ liệu cá nhân chỉ được xử lý đúng với mục đích đã được Bên Kiểm soát dữ liệu cá nhân, Bên Xử lý dữ liệu cá nhân, Bên Kiểm soát và xử lý dữ liệu cá nhân, Bên thứ ba đăng ký, tuyên bố về xử lý dữ liệu cá nhân. Dữ liệu cá nhân thu thập phải phù hợp và giới hạn trong phạm vi, mục đích cần xử lý. Dữ liệu cá nhân không được mua, bán dưới mọi hình thức, trừ trường hợp luật có quy định khác. Dữ liệu cá nhân được cập nhật, bổ sung phù hợp với mục đích xử lý.
+==================================================
+
+==================================================
+QUERY: How does the Socialist Republic of Vietnam ensure compliance with personal data protection regulations?
+--------------------------------------------------
+STEP 1: HYBRID SEARCH (TOP 8)
+  [0] Score: 0.0164 | Method: hybrid | Source: Nghi_dinh_so_13.md
+      Text: [Ngữ cảnh: Nghị định về bảo vệ dữ liệu cá nhân và trách nhiệm thi hành.]
+
+a;
+- Ngân hàng Chính sách xã hội;
+- Ngân hàng Phát triển Việt Nam;
+- Ủy ban trung ương Mặt trận Tổ quốc Việt Nam;
+- Cơ quan tr...
+  [1] Score: 0.0161 | Method: hybrid | Source: Nghi_dinh_so_13.md
+      Text: [Ngữ cảnh: Đoạn văn trình bày mẫu hồ sơ đánh giá tác động xử lý dữ liệu cá nhân.]
+
+.........  
+   - Chức danh:........................................................................  
+   - Số điện th...
+  [2] Score: 0.0159 | Method: hybrid | Source: Nghi_dinh_so_13.md
+      Text: [Ngữ cảnh: Đoạn văn trình bày mẫu hồ sơ đánh giá tác động xử lý dữ liệu cá nhân.]
+
+ng nhận đăng ký kinh doanh/Giấy chứng nhận đầu tư số: .... do .... cấp ngày ... tháng ... năm ... tại ...  
+   - Điện...
+  [3] Score: 0.0156 | Method: hybrid | Source: Nghi_dinh_so_13.md
+      Text: [Ngữ cảnh: Đoạn văn liệt kê thông tin cần thiết cho yêu cầu cung cấp dữ liệu cá nhân.]
+
+Số lượng bản3:...............................................................................................
+10...
+  [4] Score: 0.0154 | Method: hybrid | Source: Nghi_dinh_so_13.md
+      Text: [Ngữ cảnh: Đoạn văn liệt kê các mẫu biểu liên quan đến dữ liệu cá nhân.]
+
+............................................
+
+4. Nơi cư trú2: ...................................................................
+
+STEP 2: RERANKING (TOP 3)
+  [0] Score: 0.0408 | Source: Nghi_dinh_so_13.md
+      Text: [Ngữ cảnh: Đoạn văn mô tả quy trình báo cáo vi phạm bảo vệ dữ liệu cá nhân.]
+
+; 
+...
+
+TM. TỔ CHỨC, DOANH NGHIỆP
+(Ký, ghi rõ họ tên, đóng dấu)
+
+---
+
+## Trang 34
+
+# TÊN TỔ CHỨC
+CỘNG HÒA XÃ HỘI CHỦ NGHĨA...
+  [1] Score: 0.0245 | Source: Nghi_dinh_so_13.md
+      Text: [Ngữ cảnh: Nghị định về bảo vệ dữ liệu cá nhân và trách nhiệm thi hành.]
+
+a;
+- Ngân hàng Chính sách xã hội;
+- Ngân hàng Phát triển Việt Nam;
+- Ủy ban trung ương Mặt trận Tổ quốc Việt Nam;
+- Cơ quan tr...
+  [2] Score: 0.0030 | Source: Nghi_dinh_so_13.md
+      Text: [Ngữ cảnh: Đoạn văn mô tả quy trình báo cáo vi phạm bảo vệ dữ liệu cá nhân.]
+
+2. **Mô tả hành vi vi phạm quy định bảo vệ dữ liệu cá nhân**  
+   - Thời gian: ..............................................
+
+STEP 3: GENERATED ANSWER
+Answer: Không tìm thấy thông tin trong tài liệu.
+==================================================
+
+==================================================
+QUERY: What rights does a data subject have according to the information on Trang 8 regarding personal data protection activities?
+--------------------------------------------------
+STEP 1: HYBRID SEARCH (TOP 8)
+  [0] Score: 0.0320 | Method: hybrid | Source: Nghi_dinh_so_13.md
+      Text: [Ngữ cảnh: Đoạn văn liệt kê thông tin cần thiết cho yêu cầu cung cấp dữ liệu cá nhân.]
+
+.....
+6. Dữ liệu cá nhân yêu cầu cung cấp:...............................................................
+7. Mục...
+  [1] Score: 0.0164 | Method: hybrid | Source: Nghi_dinh_so_13.md
+      Text: [Ngữ cảnh: Đoạn văn nói về quyền của chủ thể dữ liệu trong bảo vệ thông tin cá nhân.]
+
+*Quyền cung cấp dữ liệu**  
+   Chủ thể dữ liệu được yêu cầu Bên Kiểm soát dữ liệu cá nhân, Bên Kiểm soát và xử lý...
+  [2] Score: 0.0164 | Method: hybrid | Source: Nghi_dinh_so_13.md
+      Text: [Ngữ cảnh: Đoạn văn liệt kê các mẫu biểu liên quan đến dữ liệu cá nhân.]
+
+............................................
+
+4. Nơi cư trú2: ...................................................................
+  [3] Score: 0.0161 | Method: hybrid | Source: Nghi_dinh_so_13.md
+      Text: [Ngữ cảnh: Đoạn văn mô tả mẫu thông báo vi phạm bảo vệ dữ liệu cá nhân.]
+
+ự chịu trách nhiệm bảo vệ dữ liệu cá nhân:  
+     Họ và tên: ....................................................................
+  [4] Score: 0.0159 | Method: hybrid | Source: Nghi_dinh_so_13.md
+      Text: [Ngữ cảnh: Đoạn văn hướng dẫn yêu cầu cung cấp dữ liệu cá nhân.]
+
+7. Mục đích yêu cầu cung cấp: ...................................................................
+
+8. Yêu cầu cung cấp dữ liệu cá nhân...
+
+STEP 2: RERANKING (TOP 3)
+  [0] Score: 0.9552 | Source: Nghi_dinh_so_13.md
+      Text: [Ngữ cảnh: Đoạn văn nói về quyền của chủ thể dữ liệu trong bảo vệ thông tin cá nhân.]
+
+*Quyền cung cấp dữ liệu**  
+   Chủ thể dữ liệu được yêu cầu Bên Kiểm soát dữ liệu cá nhân, Bên Kiểm soát và xử lý...
+  [1] Score: 0.0147 | Source: Nghi_dinh_so_13.md
+      Text: [Ngữ cảnh: Đoạn văn nói về yêu cầu cung cấp dữ liệu cá nhân.]
+
+ợp yêu cầu cung cấp dữ liệu cá nhân quy định tại khoản 2 Điều này thì phải kèm theo văn bản đồng ý của cá nhân, tổ chức liên quan.
+
+8. Ti...
+  [2] Score: 0.0051 | Source: Nghi_dinh_so_13.md
+      Text: [Ngữ cảnh: Đoạn văn mô tả mẫu thông báo vi phạm bảo vệ dữ liệu cá nhân.]
+
+ự chịu trách nhiệm bảo vệ dữ liệu cá nhân:  
+     Họ và tên: ....................................................................
+
+STEP 3: GENERATED ANSWER
+Answer: Chủ thể dữ liệu có quyền hạn chế xử lý dữ liệu, quyền cung cấp dữ liệu, quyền phân đối xử lý dữ liệu, quyền khiếu nại, tố cáo, khởi kiện, quyền yêu cầu bồi thường thiệt hại và quyền tự bảo vệ.
+==================================================
+
+==================================================
+QUERY: Bộ luật Dân sự có gì liên quan đến bảo vệ dữ liệu cá nhân?
+--------------------------------------------------
+STEP 1: HYBRID SEARCH (TOP 8)
+  [0] Score: 0.0320 | Method: hybrid | Source: Nghi_dinh_so_13.md
+      Text: [Ngữ cảnh: Đoạn văn nói về quyền của chủ thể dữ liệu trong bảo vệ thông tin cá nhân.]
+
+hác hoặc luật có quy định khác.
+
+11. Quyền tự bảo vệ
+
+Chủ thể dữ liệu có quyền tự bảo vệ theo quy định của Bộ luậ...
+  [1] Score: 0.0318 | Method: hybrid | Source: Nghi_dinh_so_13.md
+      Text: [Ngữ cảnh: Đoạn văn nói về các khái niệm liên quan đến dữ liệu cá nhân.]
+
+định của pháp luật.
+
+2. Chủ thể dữ liệu được biết về hoạt động liên quan tới xử lý dữ liệu cá nhân của mình, trừ trường hợp lu...
+  [2] Score: 0.0297 | Method: hybrid | Source: Nghi_dinh_so_13.md
+      Text: [Ngữ cảnh: Đoạn văn nói về trách nhiệm và kinh phí bảo vệ dữ liệu cá nhân.]
+
+ia về bảo vệ dữ liệu cá nhân.
+
+4. Đánh giá kết quả công tác bảo vệ dữ liệu cá nhân của cơ quan, tổ chức, cá nhân có liên qu...
+  [3] Score: 0.0161 | Method: hybrid | Source: Nghi_dinh_so_13.md
+      Text: [Ngữ cảnh: Đoạn văn nói về quyền và quy trình liên quan đến sự đồng ý của chủ thể dữ liệu.]
+
+0. Trong trường hợp có tranh chấp, trách nhiệm chứng minh sự đồng ý của chủ thể dữ liệu thuộc về Bên Kiểm s...
+  [4] Score: 0.0161 | Method: hybrid | Source: Nghi_dinh_so_13.md
+      Text: [Ngữ cảnh: Nghị định số 13/2023 quy định về bảo vệ dữ liệu cá nhân.]
+
+c dạng tương tự trên môi trường điện tử gắn liên với một con người cụ thể hoặc giúp xác định một con người cụ thể. Dữ liệu cá nhân...
+
+STEP 2: RERANKING (TOP 3)
+  [0] Score: 0.9669 | Source: Nghi_dinh_so_13.md
+      Text: [Ngữ cảnh: Đoạn văn nói về quyền của chủ thể dữ liệu trong bảo vệ thông tin cá nhân.]
+
+hác hoặc luật có quy định khác.
+
+11. Quyền tự bảo vệ
+
+Chủ thể dữ liệu có quyền tự bảo vệ theo quy định của Bộ luậ...
+  [1] Score: 0.9032 | Source: Nghi_dinh_so_13.md
+      Text: [Ngữ cảnh: Đoạn văn nói về các khái niệm liên quan đến dữ liệu cá nhân.]
+
+liệu cá nhân của công dân Việt Nam bằng các hệ thống tự động nằm ngoài lãnh thổ của nước Cộng hòa xã hội chủ nghĩa Việt Nam củ...
+  [2] Score: 0.8950 | Source: Nghi_dinh_so_13.md
+      Text: [Ngữ cảnh: Đoạn văn nói về quyền và quy trình liên quan đến sự đồng ý của chủ thể dữ liệu.]
+
+0. Trong trường hợp có tranh chấp, trách nhiệm chứng minh sự đồng ý của chủ thể dữ liệu thuộc về Bên Kiểm s...
+
+STEP 3: GENERATED ANSWER
+Answer: Không tìm thấy thông tin trong tài liệu.
+==================================================
+
+==================================================
+QUERY: What are the key provisions outlined in Điều 14 regarding the provision of personal data?
+--------------------------------------------------
+STEP 1: HYBRID SEARCH (TOP 8)
+  [0] Score: 0.0164 | Method: hybrid | Source: Nghi_dinh_so_13.md
+      Text: [Ngữ cảnh: Đoạn văn nói về quy định thông báo xử lý dữ liệu cá nhân.]
+
+n tiến hành thu thập dữ liệu cá nhân, phù hợp với các quy định của Điều 9 Nghị định này;
+
+b) Dữ liệu cá nhân được xử lý bởi cơ qu...
+  [1] Score: 0.0164 | Method: hybrid | Source: Nghi_dinh_so_13.md
+      Text: [Ngữ cảnh: Đoạn văn trình bày mẫu hồ sơ đánh giá tác động xử lý dữ liệu cá nhân.]
+
+.........  
+   - Chức danh:........................................................................  
+   - Số điện th...
+  [2] Score: 0.0161 | Method: hybrid | Source: Nghi_dinh_so_13.md
+      Text: [Ngữ cảnh: Đoạn văn nói về yêu cầu cung cấp dữ liệu cá nhân.]
+
+iệu cá nhân
+
+Khi nhận được yêu cầu cung cấp dữ liệu cá nhân hợp lệ, Bên Kiểm soát dữ liệu cá nhân, Bên Kiểm soát và xử lý dữ liệu cá nhân...
+  [3] Score: 0.0161 | Method: hybrid | Source: Nghi_dinh_so_13.md
+      Text: [Ngữ cảnh: Đoạn văn trình bày mẫu hồ sơ đánh giá tác động xử lý dữ liệu cá nhân.]
+
+ng nhận đăng ký kinh doanh/Giấy chứng nhận đầu tư số: .... do .... cấp ngày ... tháng ... năm ... tại ...  
+   - Điện...
+  [4] Score: 0.0159 | Method: hybrid | Source: Nghi_dinh_so_13.md
+      Text: [Ngữ cảnh: Đoạn văn nói về các khái niệm liên quan đến dữ liệu cá nhân.]
+
+hể, như: thói quen, sở thích, mức độ tin cậy, hành vi, địa điểm, xu hướng, năng lực và các trường hợp khác.
+
+14. Chuyển dữ liệ...
+
+STEP 2: RERANKING (TOP 3)
+  [0] Score: 0.6629 | Source: Nghi_dinh_so_13.md
+      Text: [Ngữ cảnh: Đoạn văn nói về quy định thông báo xử lý dữ liệu cá nhân.]
+
+n tiến hành thu thập dữ liệu cá nhân, phù hợp với các quy định của Điều 9 Nghị định này;
+
+b) Dữ liệu cá nhân được xử lý bởi cơ qu...
+  [1] Score: 0.5178 | Source: Nghi_dinh_so_13.md
+      Text: [Ngữ cảnh: Đoạn văn nói về các khái niệm liên quan đến dữ liệu cá nhân.]
+
+hể, như: thói quen, sở thích, mức độ tin cậy, hành vi, địa điểm, xu hướng, năng lực và các trường hợp khác.
+
+14. Chuyển dữ liệ...
+  [2] Score: 0.3881 | Source: Nghi_dinh_so_13.md
+      Text: [Ngữ cảnh: Đoạn văn nói về yêu cầu cung cấp dữ liệu cá nhân.]
+
+iệu cá nhân
+
+Khi nhận được yêu cầu cung cấp dữ liệu cá nhân hợp lệ, Bên Kiểm soát dữ liệu cá nhân, Bên Kiểm soát và xử lý dữ liệu cá nhân...
+
+STEP 3: GENERATED ANSWER
+Answer: Không tìm thấy thông tin trong tài liệu.
+==================================================
+
+==================================================
+QUERY: What are the requirements for submitting a request for personal data using Mẫu số 01 according to the data protection regulations?
+--------------------------------------------------
+STEP 1: HYBRID SEARCH (TOP 8)
+  [0] Score: 0.0308 | Method: hybrid | Source: Nghi_dinh_so_13.md
+      Text: [Ngữ cảnh: Đoạn văn liệt kê các mẫu biểu liên quan đến dữ liệu cá nhân.]
+
+# Phụ lục
+(Kèm theo Nghị định số 13/2023/NĐ-CP ngày 17 tháng 4 năm 2023 của Chính phủ)
+
+| Mẫu số  | Tên mẫu                   ...
+  [1] Score: 0.0306 | Method: hybrid | Source: Nghi_dinh_so_13.md
+      Text: [Ngữ cảnh: Đoạn văn trình bày mẫu hồ sơ đánh giá tác động xử lý dữ liệu cá nhân.]
+
+.........  
+   - Chức danh:........................................................................  
+   - Số điện th...
+  [2] Score: 0.0299 | Method: hybrid | Source: Nghi_dinh_so_13.md
+      Text: [Ngữ cảnh: Đoạn văn trình bày mẫu hồ sơ đánh giá tác động xử lý dữ liệu cá nhân.]
+
+ng nhận đăng ký kinh doanh/Giấy chứng nhận đầu tư số: .... do .... cấp ngày ... tháng ... năm ... tại ...  
+   - Điện...
+  [3] Score: 0.0164 | Method: hybrid | Source: BCTC.md
+      Text: [Ngữ cảnh: Nghị định số 13/2023 quy định về bảo vệ dữ liệu cá nhân.]
+
+# BCTC.pdf
+
+## Trang 1
+
+CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM  
+Độc lập-Tự do-Hạnh phúc
+
+Mẫu số: 01/GTGT  
+(Ban hành kèm theo Thông t...
+  [4] Score: 0.0164 | Method: hybrid | Source: Nghi_dinh_so_13.md
+      Text: [Ngữ cảnh: Đoạn văn liệt kê các mẫu biểu liên quan đến dữ liệu cá nhân.]
+
+............................................
+
+4. Nơi cư trú2: ...................................................................
+
+STEP 2: RERANKING (TOP 3)
+  [0] Score: 0.8368 | Source: Nghi_dinh_so_13.md
+      Text: [Ngữ cảnh: Đoạn văn nói về quy định cung cấp dữ liệu cá nhân.]
+
+Trang 12
+
+Người tiếp nhận yêu cầu có trách nhiệm hướng dẫn tổ chức, cá nhân yêu cầu điền các nội dung vào Phiếu yêu cầu cung cấp dữ liệu...
+  [1] Score: 0.8234 | Source: Nghi_dinh_so_13.md
+      Text: [Ngữ cảnh: Đoạn văn nói về quy định cung cấp dữ liệu cá nhân.]
+
+ầu cung cấp dữ liệu cá nhân;
+
+b) Gửi Phiếu yêu cầu cung cấp dữ liệu cá nhân theo Mẫu số 01, 02 tại Phụ lục của Nghị định này qua mạng đi...
+  [2] Score: 0.3739 | Source: Nghi_dinh_so_13.md
+      Text: [Ngữ cảnh: Đoạn văn liệt kê các mẫu biểu liên quan đến dữ liệu cá nhân.]
+
+# Phụ lục
+(Kèm theo Nghị định số 13/2023/NĐ-CP ngày 17 tháng 4 năm 2023 của Chính phủ)
+
+| Mẫu số  | Tên mẫu                   ...
+
+STEP 3: GENERATED ANSWER
+Answer: Không tìm thấy thông tin trong tài liệu.
+==================================================
+
+==================================================
+QUERY: Chủ thể dữ liệu có quyền gì trong việc truy cập và chỉnh sửa dữ liệu cá nhân của mình theo quy định hiện hành?
+--------------------------------------------------
+STEP 1: HYBRID SEARCH (TOP 8)
+  [0] Score: 0.0292 | Method: hybrid | Source: Nghi_dinh_so_13.md
+      Text: [Ngữ cảnh: Đoạn văn nói về quyền của chủ thể dữ liệu trong bảo vệ thông tin cá nhân.]
+
+*Quyền cung cấp dữ liệu**  
+   Chủ thể dữ liệu được yêu cầu Bên Kiểm soát dữ liệu cá nhân, Bên Kiểm soát và xử lý...
+  [1] Score: 0.0164 | Method: hybrid | Source: Nghi_dinh_so_13.md
+      Text: [Ngữ cảnh: Đoạn văn nói về quyền của chủ thể dữ liệu trong việc chỉnh sửa và xóa dữ liệu cá nhân.]
+
+1. Chủ thể dữ liệu:
+   a) Được truy cập để xem, chỉnh sửa dữ liệu cá nhân của mình sau khi đã được B...
+  [2] Score: 0.0164 | Method: hybrid | Source: Nghi_dinh_so_13.md
+      Text: [Ngữ cảnh: Đoạn văn nói về trách nhiệm của bên xử lý dữ liệu cá nhân.]
+
+ữ liệu cá nhân của mình, chịu trách nhiệm về tính chính xác của dữ liệu cá nhân do mình cung cấp.
+
+2. Thực hiện quy định về bảo ...
+  [3] Score: 0.0161 | Method: hybrid | Source: Nghi_dinh_so_13.md
+      Text: [Ngữ cảnh: Đoạn văn nói về quy định bảo vệ dữ liệu cá nhân và quyền của chủ thể dữ liệu.]
+
+g đồng ý cho phép xử lý dữ liệu cá nhân của mình, trừ trường hợp quy định tại Điều 17 Nghị định này.
+
+3. **Qu...
+  [4] Score: 0.0161 | Method: hybrid | Source: Nghi_dinh_so_13.md
+      Text: [Ngữ cảnh: Đoạn văn nói về quyền của chủ thể dữ liệu trong bảo vệ thông tin cá nhân.]
+
+6. **Quyền hạn chế xử lý dữ liệu**  
+   a) Chủ thể dữ liệu được yêu cầu hạn chế xử lý dữ liệu cá nhân của mình, t...
+
+STEP 2: RERANKING (TOP 3)
+  [0] Score: 0.9990 | Source: Nghi_dinh_so_13.md
+      Text: [Ngữ cảnh: Đoạn văn nói về quyền của chủ thể dữ liệu trong việc chỉnh sửa và xóa dữ liệu cá nhân.]
+
+1. Chủ thể dữ liệu:
+   a) Được truy cập để xem, chỉnh sửa dữ liệu cá nhân của mình sau khi đã được B...
+  [1] Score: 0.9970 | Source: Nghi_dinh_so_13.md
+      Text: [Ngữ cảnh: Đoạn văn nói về quy định bảo vệ dữ liệu cá nhân và quyền của chủ thể dữ liệu.]
+
+g đồng ý cho phép xử lý dữ liệu cá nhân của mình, trừ trường hợp quy định tại Điều 17 Nghị định này.
+
+3. **Qu...
+  [2] Score: 0.9919 | Source: Nghi_dinh_so_13.md
+      Text: [Ngữ cảnh: Đoạn văn nói về quyền của chủ thể dữ liệu trong việc chỉnh sửa và xóa dữ liệu cá nhân.]
+
+cá nhân, Bên Kiểm soát và xử lý dữ liệu cá nhân chỉnh sửa dữ liệu cá nhân của mình.
+
+2. Bên Kiểm soá...
+
+STEP 3: GENERATED ANSWER
+Answer: Chủ thể dữ liệu có quyền truy cập để xem, chỉnh sửa dữ liệu cá nhân của mình sau khi đã được Bên Kiểm soát dữ liệu cá nhân đồng ý. Trong trường hợp không thể chỉnh sửa trực tiếp, chủ thể dữ liệu có thể yêu cầu Bên Kiểm soát dữ liệu cá nhân chỉnh sửa dữ liệu cá nhân của mình.
+==================================================
+
+==================================================
+QUERY: Tổ chức có thể yêu cầu xóa dữ liệu cá nhân trong những trường hợp nào?
+--------------------------------------------------
+STEP 1: HYBRID SEARCH (TOP 8)
+  [0] Score: 0.0320 | Method: hybrid | Source: Nghi_dinh_so_13.md
+      Text: [Ngữ cảnh: Đoạn văn nói về quy định bảo vệ dữ liệu cá nhân và quyền của chủ thể dữ liệu.]
+
+trường hợp luật có quy định khác.
+
+5. **Quyền xóa dữ liệu**  
+   Chủ thể dữ liệu được xóa hoặc yêu cầu xóa dữ...
+  [1] Score: 0.0306 | Method: hybrid | Source: Nghi_dinh_so_13.md
+      Text: [Ngữ cảnh: Quy định về việc xóa dữ liệu cá nhân trong các trường hợp cụ thể.]
+
+sáp nhập cơ quan, tổ chức, đơn vị hành chính và tổ chức lại, chuyển đổi hình thức sở hữu doanh nghiệp nhà nước thì dữ liệ...
+  [2] Score: 0.0164 | Method: hybrid | Source: Nghi_dinh_so_13.md
+      Text: [Ngữ cảnh: Đoạn văn nói về quyền của chủ thể dữ liệu trong việc chỉnh sửa và xóa dữ liệu cá nhân.]
+
+Lưu trữ, xóa, hủy dữ liệu cá nhân
+
+1. Chủ thể dữ liệu được yêu cầu Bên Kiểm soát dữ liệu cá nhân, Bê...
+  [3] Score: 0.0161 | Method: hybrid | Source: Nghi_dinh_so_13.md
+      Text: [Ngữ cảnh: Đoạn văn nói về quyền của chủ thể dữ liệu trong việc chỉnh sửa và xóa dữ liệu cá nhân.]
+
+cá nhân, Bên Kiểm soát và xử lý dữ liệu cá nhân chỉnh sửa dữ liệu cá nhân của mình.
+
+2. Bên Kiểm soá...
+  [4] Score: 0.0161 | Method: hybrid | Source: Nghi_dinh_so_13.md
+      Text: [Ngữ cảnh: Quy định về việc xóa dữ liệu cá nhân trong các trường hợp cụ thể.]
+
+nhân thu thập được, trừ trường hợp pháp luật có quy định khác.
+
+6. Bên Kiểm soát dữ liệu cá nhân, Bên Kiểm soát và xử lý ...
+
+STEP 2: RERANKING (TOP 3)
+  [0] Score: 0.9893 | Source: Nghi_dinh_so_13.md
+      Text: [Ngữ cảnh: Quy định về việc xóa dữ liệu cá nhân trong các trường hợp cụ thể.]
+
+sáp nhập cơ quan, tổ chức, đơn vị hành chính và tổ chức lại, chuyển đổi hình thức sở hữu doanh nghiệp nhà nước thì dữ liệ...
+  [1] Score: 0.9880 | Source: Nghi_dinh_so_13.md
+      Text: [Ngữ cảnh: Quy định về việc xóa dữ liệu cá nhân trong các trường hợp cụ thể.]
+
+hòng, chống bạo loạn, khủng bố, phòng, chống tội phạm và vi phạm pháp luật;
+
+e) Ứng phó với tình huống khẩn cấp de dọa đế...
+  [2] Score: 0.9826 | Source: Nghi_dinh_so_13.md
+      Text: [Ngữ cảnh: Đoạn văn nói về quyền của chủ thể dữ liệu trong việc chỉnh sửa và xóa dữ liệu cá nhân.]
+
+Lưu trữ, xóa, hủy dữ liệu cá nhân
+
+1. Chủ thể dữ liệu được yêu cầu Bên Kiểm soát dữ liệu cá nhân, Bê...
+
+STEP 3: GENERATED ANSWER
+Answer: Không tìm thấy thông tin trong tài liệu.
+==================================================
+
+==================================================
+QUERY: quốc phòng là gì trong xử lý dữ liệu cá nhân?
+--------------------------------------------------
+STEP 1: HYBRID SEARCH (TOP 8)
+  [0] Score: 0.0290 | Method: hybrid | Source: Nghi_dinh_so_13.md
+      Text: [Ngữ cảnh: Đoạn văn nói về bảo vệ và xử lý dữ liệu cá nhân.]
+
+tại tổ chức tín dụng, chi nhánh ngân hàng, tổ chức cung ứng dịch vụ trung gian thanh toán;
+
+i) Dữ liệu về vị trí của cá nhân được xác định...
+  [1] Score: 0.0164 | Method: hybrid | Source: Nghi_dinh_so_13.md
+      Text: [Ngữ cảnh: Đoạn văn nói về trách nhiệm của các bộ trong bảo vệ dữ liệu cá nhân.]
+
+g, nhiệm vụ được giao.
+
+3. Phối hợp với Bộ Công an trong thanh tra, kiểm tra, xử lý vi phạm pháp luật về bảo vệ dữ liệ...
+  [2] Score: 0.0164 | Method: hybrid | Source: Nghi_dinh_so_13.md
+      Text: [Ngữ cảnh: Đoạn văn nói về cơ quan và điều kiện bảo vệ dữ liệu cá nhân.]
+
+á nhân được chỉ định trong cơ quan, tổ chức, doanh nghiệp nhằm bảo đảm thực hiện quy định về bảo vệ dữ liệu cá nhân;
+
+c) Tổ ch...
+  [3] Score: 0.0161 | Method: hybrid | Source: Nghi_dinh_so_13.md
+      Text: [Ngữ cảnh: Đoạn văn nói về quy định xử lý dữ liệu cá nhân trong các trường hợp cụ thể.]
+
+g hợp này.
+
+2. Việc công khai dữ liệu cá nhân theo quy định của luật.
+
+3. Việc xử lý dữ liệu của cơ quan nhà nư...
+  [4] Score: 0.0161 | Method: hybrid | Source: Nghi_dinh_so_13.md
+      Text: [Ngữ cảnh: Quy định về bảo vệ dữ liệu cá nhân trong quản lý nhà nước.]
+
+hợp.
+
+5. Bảo đảm các quyền của chủ thể dữ liệu theo quy định tại Điều 9 Nghị định này.
+
+6. Bên Kiểm soát dữ liệu cá nhân chịu tr...
+
+STEP 2: RERANKING (TOP 3)
+  [0] Score: 0.8827 | Source: Nghi_dinh_so_13.md
+      Text: [Ngữ cảnh: Đoạn văn nói về trách nhiệm của các bộ trong bảo vệ dữ liệu cá nhân.]
+
+g, nhiệm vụ được giao.
+
+3. Phối hợp với Bộ Công an trong thanh tra, kiểm tra, xử lý vi phạm pháp luật về bảo vệ dữ liệ...
+  [1] Score: 0.8393 | Source: Nghi_dinh_so_13.md
+      Text: [Ngữ cảnh: Đoạn văn nói về quy định xử lý dữ liệu cá nhân trong các trường hợp cụ thể.]
+
+g hợp này.
+
+2. Việc công khai dữ liệu cá nhân theo quy định của luật.
+
+3. Việc xử lý dữ liệu của cơ quan nhà nư...
+  [2] Score: 0.7945 | Source: Nghi_dinh_so_13.md
+      Text: [Ngữ cảnh: Quy định về việc xóa dữ liệu cá nhân trong các trường hợp cụ thể.]
+
+h của pháp luật;
+
+d) Dữ liệu cá nhân được xử lý nhằm phục vụ yêu cầu pháp lý, nghiên cứu khoa học, thống kê theo quy định...
+
+STEP 3: GENERATED ANSWER
+Answer: Không tìm thấy thông tin trong tài liệu.
+==================================================
+
+==================================================
+QUERY: Bộ Công an có vai trò gì trong việc bảo vệ dữ liệu cá nhân theo quy định pháp luật?
+--------------------------------------------------
+STEP 1: HYBRID SEARCH (TOP 8)
+  [0] Score: 0.0164 | Method: hybrid | Source: Nghi_dinh_so_13.md
+      Text: [Ngữ cảnh: Đoạn văn nói về trách nhiệm của các bộ trong bảo vệ dữ liệu cá nhân.]
+
+g, nhiệm vụ được giao.
+
+3. Phối hợp với Bộ Công an trong thanh tra, kiểm tra, xử lý vi phạm pháp luật về bảo vệ dữ liệ...
+  [1] Score: 0.0164 | Method: hybrid | Source: Nghi_dinh_so_13.md
+      Text: [Ngữ cảnh: Đoạn văn mô tả quy trình thay đổi hồ sơ và cam kết trách nhiệm.]
+
+h về bảo vệ dữ liệu cá nhân, .................. gửi Bộ Công an Hồ sơ đánh giá tác động chuyển dữ liệu cá nhân ra nước ngoài...
+  [2] Score: 0.0161 | Method: hybrid | Source: Nghi_dinh_so_13.md
+      Text: [Ngữ cảnh: Đoạn văn nói về quy định chuyển dữ liệu cá nhân ra nước ngoài.]
+
+ngày kể từ ngày yêu cầu.
+
+7. Căn cứ tình hình cụ thể, Bộ Công an quyết định việc kiểm tra chuyển dữ liệu cá nhân ra nước ngo...
+  [3] Score: 0.0161 | Method: hybrid | Source: Nghi_dinh_so_13.md
+      Text: [Ngữ cảnh: Đoạn văn nói về quy định xử lý dữ liệu cá nhân trong các trường hợp cụ thể.]
+
+ống bao loan, khủng bố, chống tội phạm và vi phạm pháp luật theo quy định của luật.
+
+4. Để thực hiện nghĩa vụ t...
+  [4] Score: 0.0159 | Method: hybrid | Source: Nghi_dinh_so_13.md
+      Text: [Ngữ cảnh: Đoạn văn nói về trách nhiệm của các bộ trong bảo vệ dữ liệu cá nhân.]
+
+định pháp luật và chức năng, nhiệm vụ được giao.
+
+### Điều 35. Trách nhiệm của Bộ Khoa học và Công nghệ
+1. Phối hợp vớ...
+
+STEP 2: RERANKING (TOP 3)
+  [0] Score: 0.9630 | Source: Nghi_dinh_so_13.md
+      Text: [Ngữ cảnh: Đoạn văn nói về trách nhiệm của các bộ trong bảo vệ dữ liệu cá nhân.]
+
+định pháp luật và chức năng, nhiệm vụ được giao.
+
+### Điều 35. Trách nhiệm của Bộ Khoa học và Công nghệ
+1. Phối hợp vớ...
+  [1] Score: 0.9272 | Source: Nghi_dinh_so_13.md
+      Text: [Ngữ cảnh: Đoạn văn nói về trách nhiệm của các bộ trong bảo vệ dữ liệu cá nhân.]
+
+g, nhiệm vụ được giao.
+
+3. Phối hợp với Bộ Công an trong thanh tra, kiểm tra, xử lý vi phạm pháp luật về bảo vệ dữ liệ...
+  [2] Score: 0.9188 | Source: Nghi_dinh_so_13.md
+      Text: [Ngữ cảnh: Đoạn văn nói về cơ quan và điều kiện bảo vệ dữ liệu cá nhân.]
+
+á nhân được chỉ định trong cơ quan, tổ chức, doanh nghiệp nhằm bảo đảm thực hiện quy định về bảo vệ dữ liệu cá nhân;
+
+c) Tổ ch...
+
+STEP 3: GENERATED ANSWER
+Answer: Bộ Công an có vai trò trong việc xây dựng Tiêu chuẩn bảo vệ dữ liệu cá nhân, phối hợp với Bộ Thông tin và Truyền thông trong thanh tra, kiểm tra, xử lý vi phạm pháp luật về bảo vệ dữ liệu cá nhân, và nghiên cứu, trao đổi về các biện pháp bảo vệ dữ liệu cá nhân theo kịp sự phát triển của khoa học, công nghệ.
+==================================================
+
+==================================================
+QUERY: What responsibilities does Bên Xử lý dữ liệu cá nhân have in the event of a data protection violation?
+--------------------------------------------------
+STEP 1: HYBRID SEARCH (TOP 8)
+  [0] Score: 0.0303 | Method: hybrid | Source: Nghi_dinh_so_13.md
+      Text: [Ngữ cảnh: Đoạn văn nói về quy định xử lý dữ liệu cá nhân trong các trường hợp cụ thể.]
+
+7. Bên Kiểm soát dữ liệu cá nhân, Bên Kiểm soát và xử lý dữ liệu cá nhân, Bên Xử lý dữ liệu cá nhân, Bên thứ ba...
+  [1] Score: 0.0164 | Method: hybrid | Source: Nghi_dinh_so_13.md
+      Text: [Ngữ cảnh: Đoạn văn nói về yêu cầu cung cấp dữ liệu cá nhân.]
+
+iệu cá nhân
+
+Khi nhận được yêu cầu cung cấp dữ liệu cá nhân hợp lệ, Bên Kiểm soát dữ liệu cá nhân, Bên Kiểm soát và xử lý dữ liệu cá nhân...
+  [2] Score: 0.0164 | Method: hybrid | Source: Nghi_dinh_so_13.md
+      Text: [Ngữ cảnh: Đoạn văn liệt kê các mẫu biểu liên quan đến dữ liệu cá nhân.]
+
+............................................
+
+4. Nơi cư trú2: ...................................................................
+  [3] Score: 0.0161 | Method: hybrid | Source: Nghi_dinh_so_13.md
+      Text: [Ngữ cảnh: Đoạn văn nói về quy định thông báo xử lý dữ liệu cá nhân.]
+
+ác có liên quan tới mục đích xử lý quy định tại điểm a khoản 2 Điều này;
+
+e) Hậu quả, thiệt hại không mong muốn có khả năng xảy r...
+  [4] Score: 0.0161 | Method: hybrid | Source: Nghi_dinh_so_13.md
+      Text: [Ngữ cảnh: Đoạn văn trình bày hồ sơ đánh giá tác động xử lý dữ liệu cá nhân gửi Bộ Công an.]
+
+....................................................
+   - Số điện thoại liên lạc (cố định và di động): ......
+
+STEP 2: RERANKING (TOP 3)
+  [0] Score: 0.9750 | Source: Nghi_dinh_so_13.md
+      Text: [Ngữ cảnh: Đoạn văn nói về trách nhiệm của bên xử lý dữ liệu cá nhân.]
+
+ệu cá nhân.
+
+2. Xử lý dữ liệu cá nhân theo đúng hợp đồng hoặc thỏa thuận ký kết với Bên Kiểm soát dữ liệu cá nhân.
+
+3. Thực hiện...
+  [1] Score: 0.8864 | Source: Nghi_dinh_so_13.md
+      Text: [Ngữ cảnh: Đoạn văn nói về yêu cầu cung cấp dữ liệu cá nhân.]
+
+iệu cá nhân
+
+Khi nhận được yêu cầu cung cấp dữ liệu cá nhân hợp lệ, Bên Kiểm soát dữ liệu cá nhân, Bên Kiểm soát và xử lý dữ liệu cá nhân...
+  [2] Score: 0.5780 | Source: Nghi_dinh_so_13.md
+      Text: [Ngữ cảnh: Đoạn văn nói về quy định xử lý dữ liệu cá nhân trong các trường hợp cụ thể.]
+
+7. Bên Kiểm soát dữ liệu cá nhân, Bên Kiểm soát và xử lý dữ liệu cá nhân, Bên Xử lý dữ liệu cá nhân, Bên thứ ba...
+
+STEP 3: GENERATED ANSWER
+Answer: Bên Xử lý dữ liệu cá nhân chịu trách nhiệm trước chủ thể dữ liệu về các thiệt hại do quá trình xử lý dữ liệu cá nhân gây ra.
+==================================================
+
+==================================================
+QUERY: What are the requirements for transferring personal data of Vietnamese citizens abroad according to the data protection regulations in Việt Nam?
+--------------------------------------------------
+STEP 1: HYBRID SEARCH (TOP 8)
+  [0] Score: 0.0308 | Method: hybrid | Source: Nghi_dinh_so_13.md
+      Text: [Ngữ cảnh: Đoạn văn nói về hồ sơ đánh giá tác động xử lý dữ liệu cá nhân.]
+
+ba.
+
+2. Hồ sơ đánh giá tác động chuyển dữ liệu cá nhân ra nước ngoài, gồm:
+
+a) Thông tin và chi tiết liên lạc của Bên chuyển...
+  [1] Score: 0.0164 | Method: hybrid | Source: Nghi_dinh_so_13.md
+      Text: [Ngữ cảnh: Đoạn văn nói về các khái niệm liên quan đến dữ liệu cá nhân.]
+
+am hoặc sử dụng một địa điểm nằm ngoài lãnh thổ của nước Cộng hòa xã hội chủ nghĩa Việt Nam để xử lý dữ liệu cá nhân của công ...
+  [2] Score: 0.0164 | Method: hybrid | Source: Nghi_dinh_so_13.md
+      Text: [Ngữ cảnh: Nghị định về bảo vệ dữ liệu cá nhân và trách nhiệm thi hành.]
+
+a;
+- Ngân hàng Chính sách xã hội;
+- Ngân hàng Phát triển Việt Nam;
+- Ủy ban trung ương Mặt trận Tổ quốc Việt Nam;
+- Cơ quan tr...
+  [3] Score: 0.0161 | Method: hybrid | Source: Nghi_dinh_so_13.md
+      Text: [Ngữ cảnh: Đoạn văn nói về bảo vệ dữ liệu cá nhân và sự đồng ý của chủ thể dữ liệu.]
+
+đích để chủ thể dữ liệu đồng ý với một hoặc nhiều mục đích nêu ra.
+
+5. Sự đồng ý của chủ thể dữ liệu phải được thể...
+  [4] Score: 0.0161 | Method: hybrid | Source: Nghi_dinh_so_13.md
+      Text: [Ngữ cảnh: Đoạn văn mô tả quy trình báo cáo vi phạm bảo vệ dữ liệu cá nhân.]
+
+; 
+...
+
+TM. TỔ CHỨC, DOANH NGHIỆP
+(Ký, ghi rõ họ tên, đóng dấu)
+
+---
+
+## Trang 34
+
+# TÊN TỔ CHỨC
+CỘNG HÒA XÃ HỘI CHỦ NGHĨA...
+
+STEP 2: RERANKING (TOP 3)
+  [0] Score: 0.6407 | Source: Nghi_dinh_so_13.md
+      Text: [Ngữ cảnh: Đoạn văn nói về quy định chuyển dữ liệu cá nhân ra nước ngoài.]
+
+liệu cá nhân của công dân Việt Nam.
+
+Mục 4
+BIỆN PHÁP, ĐIỀU KIỆN BẢO ĐẢM BẢO VỆ DỮ LIỆU CÁ NHÂN
+
+Điều 26. Biện pháp bảo vệ dữ...
+  [1] Score: 0.6356 | Source: Nghi_dinh_so_13.md
+      Text: [Ngữ cảnh: Đoạn văn nói về hồ sơ đánh giá tác động xử lý dữ liệu cá nhân.]
+
+ba.
+
+2. Hồ sơ đánh giá tác động chuyển dữ liệu cá nhân ra nước ngoài, gồm:
+
+a) Thông tin và chi tiết liên lạc của Bên chuyển...
+  [2] Score: 0.4256 | Source: Nghi_dinh_so_13.md
+      Text: [Ngữ cảnh: Đoạn văn nói về các khái niệm liên quan đến dữ liệu cá nhân.]
+
+am hoặc sử dụng một địa điểm nằm ngoài lãnh thổ của nước Cộng hòa xã hội chủ nghĩa Việt Nam để xử lý dữ liệu cá nhân của công ...
+
+STEP 3: GENERATED ANSWER
+Answer: Không tìm thấy thông tin trong tài liệu.
+==================================================
+
+==================================================
+QUERY: Bộ Công an làm gì với hồ sơ chuyển dữ liệu cá nhân?
+--------------------------------------------------
+STEP 1: HYBRID SEARCH (TOP 8)
+  [0] Score: 0.0323 | Method: hybrid | Source: Nghi_dinh_so_13.md
+      Text: [Ngữ cảnh: Đoạn văn mô tả quy trình thay đổi hồ sơ và cam kết trách nhiệm.]
+
+h về bảo vệ dữ liệu cá nhân, .................. gửi Bộ Công an Hồ sơ đánh giá tác động chuyển dữ liệu cá nhân ra nước ngoài...
+  [1] Score: 0.0312 | Method: hybrid | Source: Nghi_dinh_so_13.md
+      Text: [Ngữ cảnh: Đoạn văn mô tả quy định về xử lý dữ liệu cá nhân của công dân Việt Nam khi chuyển ra nước ngoài.]
+
+ách bằng văn bản sau khi việc chuyển dữ liệu diễn ra thành công.
+
+5. Bộ Công an (Cục An ni...
+  [2] Score: 0.0310 | Method: hybrid | Source: Nghi_dinh_so_13.md
+      Text: [Ngữ cảnh: Đoạn văn nói về hồ sơ đánh giá tác động xử lý dữ liệu cá nhân.]
+
+Bên Kiểm soát và xử lý dữ liệu cá nhân, Bên Xử lý dữ liệu cá nhân cập nhật, bổ sung Hồ sơ đánh giá tác động xử lý dữ liệu cá...
+  [3] Score: 0.0292 | Method: hybrid | Source: Nghi_dinh_so_13.md
+      Text: [Ngữ cảnh: Đoạn văn mô tả quy định về xử lý dữ liệu cá nhân của công dân Việt Nam khi chuyển ra nước ngoài.]
+
+phòng, chống tội phạm sử dụng công nghệ cao) theo Mẫu số 06 tại Phụ lục của Nghị định này ...
+  [4] Score: 0.0164 | Method: hybrid | Source: Nghi_dinh_so_13.md
+      Text: [Ngữ cảnh: Đoạn văn mô tả quy định về xử lý dữ liệu cá nhân của công dân Việt Nam khi chuyển ra nước ngoài.]
+
+a các tổ chức, cá nhân chuyển và nhận dữ liệu cá nhân của Công dân Việt Nam về việc xử lý ...
+
+STEP 2: RERANKING (TOP 3)
+  [0] Score: 0.9870 | Source: Nghi_dinh_so_13.md
+      Text: [Ngữ cảnh: Đoạn văn mô tả quy định về xử lý dữ liệu cá nhân của công dân Việt Nam khi chuyển ra nước ngoài.]
+
+ách bằng văn bản sau khi việc chuyển dữ liệu diễn ra thành công.
+
+5. Bộ Công an (Cục An ni...
+  [1] Score: 0.9853 | Source: Nghi_dinh_so_13.md
+      Text: [Ngữ cảnh: Đoạn văn mô tả quy định về xử lý dữ liệu cá nhân của công dân Việt Nam khi chuyển ra nước ngoài.]
+
+a các tổ chức, cá nhân chuyển và nhận dữ liệu cá nhân của Công dân Việt Nam về việc xử lý ...
+  [2] Score: 0.9822 | Source: Nghi_dinh_so_13.md
+      Text: [Ngữ cảnh: Đoạn văn nói về quy định chuyển dữ liệu cá nhân ra nước ngoài.]
+
+6. Bên chuyển dữ liệu ra nước ngoài cập nhật, bổ sung Hồ sơ đánh giá tác động chuyển dữ liệu cá nhân ra nước ngoài khi có sự...
+
+STEP 3: GENERATED ANSWER
+Answer: Bộ Công an (Cục An ninh mạng và phòng, chống tội phạm sử dụng công nghệ cao) đánh giá, yêu cầu Bên chuyển dữ liệu ra nước ngoài hoàn thiện Hồ sơ đánh giá tác động chuyển dữ liệu cá nhân ra nước ngoài trong trường hợp hồ sơ chưa đầy đủ và đúng quy định.
+==================================================
+
+==================================================
+QUERY: What role does Bộ Công an play in the assessment of personal data transfer abroad?
+--------------------------------------------------
+STEP 1: HYBRID SEARCH (TOP 8)
+  [0] Score: 0.0164 | Method: hybrid | Source: Nghi_dinh_so_13.md
+      Text: [Ngữ cảnh: Đoạn văn trình bày hồ sơ đánh giá tác động xử lý dữ liệu cá nhân gửi Bộ Công an.]
+
+Kính gửi: Bộ Công an  
+(Cục An ninh mạng và phòng, chống tội phạm sử dụng công nghệ cao, Bộ Công an)
+
+Thực...
+  [1] Score: 0.0164 | Method: hybrid | Source: Nghi_dinh_so_13.md
+      Text: [Ngữ cảnh: Đoạn văn liệt kê các mẫu biểu liên quan đến dữ liệu cá nhân.]
+
+............................................
+
+4. Nơi cư trú2: ...................................................................
+  [2] Score: 0.0161 | Method: hybrid | Source: Nghi_dinh_so_13.md
+      Text: [Ngữ cảnh: Đoạn văn mô tả quy trình thay đổi hồ sơ và cam kết trách nhiệm.]
+
+ng dấu)
+
+---
+
+## Trang 38
+
+# TÊN TỔ CHỨC
+CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM  
+Độc lập - Tự do - Hạnh phúc
+
+Số: ...............
+  [3] Score: 0.0161 | Method: hybrid | Source: Nghi_dinh_so_13.md
+      Text: [Ngữ cảnh: Đoạn văn trình bày hồ sơ đánh giá tác động xử lý dữ liệu cá nhân gửi Bộ Công an.]
+
+....................................................
+   - Số điện thoại liên lạc (cố định và di động): ......
+  [4] Score: 0.0159 | Method: hybrid | Source: Nghi_dinh_so_13.md
+      Text: [Ngữ cảnh: Đoạn văn nói về trách nhiệm của các bộ trong bảo vệ dữ liệu cá nhân.]
+
+định pháp luật và chức năng, nhiệm vụ được giao.
+
+### Điều 35. Trách nhiệm của Bộ Khoa học và Công nghệ
+1. Phối hợp vớ...
+
+STEP 2: RERANKING (TOP 3)
+  [0] Score: 0.4200 | Source: Nghi_dinh_so_13.md
+      Text: [Ngữ cảnh: Đoạn văn mô tả quy trình thay đổi hồ sơ và cam kết trách nhiệm.]
+
+ng dấu)
+
+---
+
+## Trang 38
+
+# TÊN TỔ CHỨC
+CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM  
+Độc lập - Tự do - Hạnh phúc
+
+Số: ...............
+  [1] Score: 0.1064 | Source: Nghi_dinh_so_13.md
+      Text: [Ngữ cảnh: Đoạn văn nói về hồ sơ đánh giá tác động xử lý dữ liệu cá nhân.]
+
+4. Hồ sơ đánh giá tác động xử lý dữ liệu cá nhân phải luôn có sẵn để phục vụ hoạt động kiểm tra, đánh giá của Bộ Công an và ...
+  [2] Score: 0.0837 | Source: Nghi_dinh_so_13.md
+      Text: [Ngữ cảnh: Đoạn văn trình bày hồ sơ đánh giá tác động xử lý dữ liệu cá nhân gửi Bộ Công an.]
+
+Kính gửi: Bộ Công an  
+(Cục An ninh mạng và phòng, chống tội phạm sử dụng công nghệ cao, Bộ Công an)
+
+Thực...
+
+STEP 3: GENERATED ANSWER
+Answer: Không tìm thấy thông tin trong tài liệu.
+==================================================
+
+==================================================
+QUERY: What is the role of Cục An ninh mạng in data protection?
+--------------------------------------------------
+STEP 1: HYBRID SEARCH (TOP 8)
+  [0] Score: 0.0315 | Method: hybrid | Source: Nghi_dinh_so_13.md
+      Text: [Ngữ cảnh: Đoạn văn liệt kê thông tin cần thiết cho yêu cầu cung cấp dữ liệu cá nhân.]
+
+................................................
+   - [ ] Nhận qua mạng điện tử (ghi rõ địa chỉ nhận):.............
+  [1] Score: 0.0297 | Method: hybrid | Source: Nghi_dinh_so_13.md
+      Text: [Ngữ cảnh: Đoạn văn hướng dẫn yêu cầu cung cấp dữ liệu cá nhân.]
+
+cung cấp  
+   ☐ Nhận qua bưu điện (ghi rõ địa chỉ nhận): ..............................................  
+   ☐ Fax (ghi rõ số fax): .....
+  [2] Score: 0.0164 | Method: hybrid | Source: Nghi_dinh_so_13.md
+      Text: [Ngữ cảnh: Đoạn văn nói về quy định vi phạm bảo vệ dữ liệu cá nhân.]
+
+2. Việc thiết lập các hệ thống phần mềm, biện pháp kỹ thuật hoặc tổ chức các hoạt động thu thập, chuyển giao, mua, bán dữ liệu cá ...
+  [3] Score: 0.0164 | Method: hybrid | Source: Nghi_dinh_so_13.md
+      Text: [Ngữ cảnh: Đoạn văn liệt kê các mẫu biểu liên quan đến dữ liệu cá nhân.]
+
+............................................
+
+4. Nơi cư trú2: ...................................................................
+  [4] Score: 0.0161 | Method: hybrid | Source: Nghi_dinh_so_13.md
+      Text: [Ngữ cảnh: Quy định về việc xóa dữ liệu cá nhân trong các trường hợp cụ thể.]
+
+h của pháp luật;
+
+d) Dữ liệu cá nhân được xử lý nhằm phục vụ yêu cầu pháp lý, nghiên cứu khoa học, thống kê theo quy định...
+
+STEP 2: RERANKING (TOP 3)
+  [0] Score: 0.1378 | Source: Nghi_dinh_so_13.md
+      Text: [Ngữ cảnh: Đoạn văn nói về quy định vi phạm bảo vệ dữ liệu cá nhân.]
+
+2. Việc thiết lập các hệ thống phần mềm, biện pháp kỹ thuật hoặc tổ chức các hoạt động thu thập, chuyển giao, mua, bán dữ liệu cá ...
+  [1] Score: 0.0036 | Source: Nghi_dinh_so_13.md
+      Text: [Ngữ cảnh: Nghị định về bảo vệ dữ liệu cá nhân và trách nhiệm thi hành.]
+
+a;
+- Ngân hàng Chính sách xã hội;
+- Ngân hàng Phát triển Việt Nam;
+- Ủy ban trung ương Mặt trận Tổ quốc Việt Nam;
+- Cơ quan tr...
+  [2] Score: 0.0026 | Source: Nghi_dinh_so_13.md
+      Text: [Ngữ cảnh: Quy định về việc xóa dữ liệu cá nhân trong các trường hợp cụ thể.]
+
+h của pháp luật;
+
+d) Dữ liệu cá nhân được xử lý nhằm phục vụ yêu cầu pháp lý, nghiên cứu khoa học, thống kê theo quy định...
+
+STEP 3: GENERATED ANSWER
+Answer: Không tìm thấy thông tin trong tài liệu.
+==================================================
+
+==================================================
+QUERY: Ngân sách nhà nước có vai trò gì trong hoạt động bảo vệ dữ liệu cá nhân?
+--------------------------------------------------
+STEP 1: HYBRID SEARCH (TOP 8)
+  [0] Score: 0.0294 | Method: hybrid | Source: Nghi_dinh_so_13.md
+      Text: [Ngữ cảnh: Đoạn văn nói về quy định bảo vệ dữ liệu cá nhân và quyền của chủ thể dữ liệu.]
+
+ống lại Nhà nước Cộng hòa xã hội chủ nghĩa Việt Nam.
+
+3. Xử lý dữ liệu cá nhân để tạo ra thông tin, dữ liệu g...
+  [1] Score: 0.0164 | Method: hybrid | Source: Nghi_dinh_so_13.md
+      Text: [Ngữ cảnh: Đoạn văn nói về trách nhiệm và kinh phí bảo vệ dữ liệu cá nhân.]
+
+hực hiện bảo vệ dữ liệu cá nhân bao gồm ngân sách nhà nước; ủng hộ của cơ quan, tổ chức, cá nhân trong và ngoài nước; nguồn...
+  [2] Score: 0.0164 | Method: hybrid | Source: Nghi_dinh_so_13.md
+      Text: [Ngữ cảnh: Đoạn văn mô tả quy trình thay đổi hồ sơ và cam kết trách nhiệm.]
+
+h về bảo vệ dữ liệu cá nhân, .................. gửi Bộ Công an Hồ sơ đánh giá tác động chuyển dữ liệu cá nhân ra nước ngoài...
+  [3] Score: 0.0161 | Method: hybrid | Source: Nghi_dinh_so_13.md
+      Text: [Ngữ cảnh: Đoạn văn nói về trách nhiệm và kinh phí bảo vệ dữ liệu cá nhân.]
+
+2. Cơ quan, tổ chức, cá nhân có trách nhiệm tuyên truyền, phổ biến kiến thức, kỹ năng, nâng cao nhận thức bảo vệ dữ liệu cá...
+  [4] Score: 0.0161 | Method: hybrid | Source: Nghi_dinh_so_13.md
+      Text: [Ngữ cảnh: Đoạn văn nói về trách nhiệm và kinh phí bảo vệ dữ liệu cá nhân.]
+
+ia về bảo vệ dữ liệu cá nhân.
+
+4. Đánh giá kết quả công tác bảo vệ dữ liệu cá nhân của cơ quan, tổ chức, cá nhân có liên qu...
+
+STEP 2: RERANKING (TOP 3)
+  [0] Score: 0.9860 | Source: Nghi_dinh_so_13.md
+      Text: [Ngữ cảnh: Đoạn văn nói về trách nhiệm và kinh phí bảo vệ dữ liệu cá nhân.]
+
+hực hiện bảo vệ dữ liệu cá nhân bao gồm ngân sách nhà nước; ủng hộ của cơ quan, tổ chức, cá nhân trong và ngoài nước; nguồn...
+  [1] Score: 0.9662 | Source: Nghi_dinh_so_13.md
+      Text: [Ngữ cảnh: Đoạn văn nói về trách nhiệm và kinh phí bảo vệ dữ liệu cá nhân.]
+
+ước hằng năm. Việc quản lý, sử dụng kinh phí từ ngân sách nhà nước được thực hiện theo quy định của pháp luật về ngân sách ...
+  [2] Score: 0.9586 | Source: Nghi_dinh_so_13.md
+      Text: [Ngữ cảnh: Quy định về bảo vệ dữ liệu cá nhân trong quản lý nhà nước.]
+
+ành phố trực thuộc trung ương
+
+1. Thực hiện quản lý nhà nước đối với bảo vệ dữ liệu cá nhân đối với các ngành, lĩnh vực quản lý ...
+
+STEP 3: GENERATED ANSWER
+Answer: Ngân sách nhà nước bảo đảm kinh phí bảo vệ dữ liệu cá nhân của cơ quan nhà nước, được bố trí trong dự toán ngân sách nhà nước hằng năm. Việc quản lý, sử dụng kinh phí từ ngân sách nhà nước được thực hiện theo quy định của pháp luật về ngân sách nhà nước.
+==================================================
+
+==================================================
+QUERY: Bộ Công an có trách nhiệm gì trong bảo vệ dữ liệu cá nhân?
+--------------------------------------------------
+STEP 1: HYBRID SEARCH (TOP 8)
+  [0] Score: 0.0312 | Method: hybrid | Source: Nghi_dinh_so_13.md
+      Text: [Ngữ cảnh: Đoạn văn nói về trách nhiệm của bên xử lý dữ liệu cá nhân.]
+
+ữ liệu cá nhân của mình, chịu trách nhiệm về tính chính xác của dữ liệu cá nhân do mình cung cấp.
+
+2. Thực hiện quy định về bảo ...
+  [1] Score: 0.0311 | Method: hybrid | Source: Nghi_dinh_so_13.md
+      Text: [Ngữ cảnh: Đoạn văn mô tả quy trình thay đổi hồ sơ và cam kết trách nhiệm.]
+
+h về bảo vệ dữ liệu cá nhân, .................. gửi Bộ Công an Hồ sơ đánh giá tác động chuyển dữ liệu cá nhân ra nước ngoài...
+  [2] Score: 0.0306 | Method: hybrid | Source: Nghi_dinh_so_13.md
+      Text: [Ngữ cảnh: Đoạn văn nói về cơ quan và điều kiện bảo vệ dữ liệu cá nhân.]
+
+# Điều 29. Cơ quan chuyển trách bảo vệ dữ liệu cá nhân và Công thông tin quốc gia về bảo vệ dữ liệu cá nhân
+
+1. Cơ quan chuyển...
+  [3] Score: 0.0288 | Method: hybrid | Source: Nghi_dinh_so_13.md
+      Text: [Ngữ cảnh: Đoạn văn nói về trách nhiệm của các bộ trong bảo vệ dữ liệu cá nhân.]
+
+nghệ.
+
+### Điều 36. Trách nhiệm của bộ, cơ quan ngang bộ, cơ quan thuộc Chính phủ
+1. Thực hiện quản lý nhà nước đối vớ...
+  [4] Score: 0.0164 | Method: hybrid | Source: Nghi_dinh_so_13.md
+      Text: [Ngữ cảnh: Đoạn văn nói về trách nhiệm của các bộ trong bảo vệ dữ liệu cá nhân.]
+
+định pháp luật và chức năng, nhiệm vụ được giao.
+
+### Điều 35. Trách nhiệm của Bộ Khoa học và Công nghệ
+1. Phối hợp vớ...
+
+STEP 2: RERANKING (TOP 3)
+  [0] Score: 0.9963 | Source: Nghi_dinh_so_13.md
+      Text: [Ngữ cảnh: Đoạn văn nói về cơ quan và điều kiện bảo vệ dữ liệu cá nhân.]
+
+# Điều 29. Cơ quan chuyển trách bảo vệ dữ liệu cá nhân và Công thông tin quốc gia về bảo vệ dữ liệu cá nhân
+
+1. Cơ quan chuyển...
+  [1] Score: 0.9946 | Source: Nghi_dinh_so_13.md
+      Text: [Ngữ cảnh: Đoạn văn nói về trách nhiệm của bên xử lý dữ liệu cá nhân.]
+
+ữ liệu cá nhân của mình, chịu trách nhiệm về tính chính xác của dữ liệu cá nhân do mình cung cấp.
+
+2. Thực hiện quy định về bảo ...
+  [2] Score: 0.9928 | Source: Nghi_dinh_so_13.md
+      Text: [Ngữ cảnh: Đoạn văn nói về trách nhiệm của các bộ trong bảo vệ dữ liệu cá nhân.]
+
+định pháp luật và chức năng, nhiệm vụ được giao.
+
+### Điều 35. Trách nhiệm của Bộ Khoa học và Công nghệ
+1. Phối hợp vớ...
+
+STEP 3: GENERATED ANSWER
+Answer: Bộ Công an có trách nhiệm giúp thực hiện quản lý nhà nước về bảo vệ dữ liệu cá nhân.
+==================================================
+
+==================================================
+QUERY: Nghị định này có những trách nhiệm gì liên quan đến bảo vệ dữ liệu cá nhân?
+--------------------------------------------------
+STEP 1: HYBRID SEARCH (TOP 8)
+  [0] Score: 0.0320 | Method: hybrid | Source: Nghi_dinh_so_13.md
+      Text: [Ngữ cảnh: Đoạn văn nói về trách nhiệm và kinh phí bảo vệ dữ liệu cá nhân.]
+
+ia về bảo vệ dữ liệu cá nhân.
+
+4. Đánh giá kết quả công tác bảo vệ dữ liệu cá nhân của cơ quan, tổ chức, cá nhân có liên qu...
+  [1] Score: 0.0311 | Method: hybrid | Source: Nghi_dinh_so_13.md
+      Text: [Ngữ cảnh: Đoạn văn nói về trách nhiệm của bên xử lý dữ liệu cá nhân.]
+
+ữ liệu cá nhân của mình, chịu trách nhiệm về tính chính xác của dữ liệu cá nhân do mình cung cấp.
+
+2. Thực hiện quy định về bảo ...
+  [2] Score: 0.0305 | Method: hybrid | Source: Nghi_dinh_so_13.md
+      Text: [Ngữ cảnh: Nghị định số 13/2023 quy định về bảo vệ dữ liệu cá nhân.]
+
+UNG
+
+**Điều 1. Phạm vi điều chỉnh và đối tượng áp dụng**
+
+1. Nghị định này quy định về bảo vệ dữ liệu cá nhân và trách nhiệm bảo v...
+  [3] Score: 0.0161 | Method: hybrid | Source: Nghi_dinh_so_13.md
+      Text: [Ngữ cảnh: Nghị định về bảo vệ dữ liệu cá nhân và trách nhiệm thi hành.]
+
+4. Phối hợp với Bộ Công an trong xử lý những vi phạm liên quan tới hoạt động bảo vệ dữ liệu cá nhân.
+
+Chương IV
+ĐIỀU KHOẢN THI...
+  [4] Score: 0.0161 | Method: hybrid | Source: Nghi_dinh_so_13.md
+      Text: [Ngữ cảnh: Đoạn văn mô tả quy trình thay đổi hồ sơ và cam kết trách nhiệm.]
+
+h về bảo vệ dữ liệu cá nhân, .................. gửi Bộ Công an Hồ sơ đánh giá tác động chuyển dữ liệu cá nhân ra nước ngoài...
+
+STEP 2: RERANKING (TOP 3)
+  [0] Score: 0.9977 | Source: Nghi_dinh_so_13.md
+      Text: [Ngữ cảnh: Đoạn văn nói về trách nhiệm của bên xử lý dữ liệu cá nhân.]
+
+ữ liệu cá nhân của mình, chịu trách nhiệm về tính chính xác của dữ liệu cá nhân do mình cung cấp.
+
+2. Thực hiện quy định về bảo ...
+  [1] Score: 0.9976 | Source: Nghi_dinh_so_13.md
+      Text: [Ngữ cảnh: Đoạn văn nói về trách nhiệm của các bộ trong bảo vệ dữ liệu cá nhân.]
+
+nghệ.
+
+### Điều 36. Trách nhiệm của bộ, cơ quan ngang bộ, cơ quan thuộc Chính phủ
+1. Thực hiện quản lý nhà nước đối vớ...
+  [2] Score: 0.9973 | Source: Nghi_dinh_so_13.md
+      Text: [Ngữ cảnh: Nghị định số 13/2023 quy định về bảo vệ dữ liệu cá nhân.]
+
+UNG
+
+**Điều 1. Phạm vi điều chỉnh và đối tượng áp dụng**
+
+1. Nghị định này quy định về bảo vệ dữ liệu cá nhân và trách nhiệm bảo v...
+
+STEP 3: GENERATED ANSWER
+Answer: Nghị định này quy định về trách nhiệm bảo vệ dữ liệu cá nhân của cơ quan, tổ chức, cá nhân có liên quan.
+==================================================
+
+==================================================
+QUERY: Bên Xử lý dữ liệu cá nhân có trách nhiệm gì?
+--------------------------------------------------
+STEP 1: HYBRID SEARCH (TOP 8)
+  [0] Score: 0.0325 | Method: hybrid | Source: Nghi_dinh_so_13.md
+      Text: [Ngữ cảnh: Đoạn văn nói về trách nhiệm của bên xử lý dữ liệu cá nhân.]
+
+xử lý dữ liệu cá nhân gây ra.
+
+5. Xóa, trả lại toàn bộ dữ liệu cá nhân cho Bên Kiểm soát dữ liệu cá nhân sau khi kết thúc xử lý ...
+  [1] Score: 0.0302 | Method: hybrid | Source: Nghi_dinh_so_13.md
+      Text: [Ngữ cảnh: Đoạn văn nói về hồ sơ đánh giá tác động xử lý dữ liệu cá nhân.]
+
+ạng và phòng, chống tội phạm sử dụng công nghệ cao) đánh giá, yêu cầu Bên Kiểm soát dữ liệu cá nhân, Bên Kiểm soát và hành x...
+  [2] Score: 0.0164 | Method: hybrid | Source: Nghi_dinh_so_13.md
+      Text: [Ngữ cảnh: Đoạn văn nói về trách nhiệm của bên xử lý dữ liệu cá nhân.]
+
+ủa Bên Kiểm soát và xử lý dữ liệu
+Thực hiện đầy đủ các quy định về trách nhiệm của Bên Kiểm soát dữ liệu cá nhân và Bên Xử lý dữ...
+  [3] Score: 0.0161 | Method: hybrid | Source: Nghi_dinh_so_13.md
+      Text: [Ngữ cảnh: Xử lý dữ liệu cá nhân trong các trường hợp đặc biệt.]
+
+ý của cha, mẹ hoặc người giám hộ theo quy định, trừ trường hợp quy định tại Điều 17 Nghị định này. Bên Kiểm soát dữ liệu cá nhân, Bên ...
+  [4] Score: 0.0159 | Method: hybrid | Source: Nghi_dinh_so_13.md
+      Text: [Ngữ cảnh: Đoạn văn nói về trách nhiệm của bên xử lý dữ liệu cá nhân.]
+
+7. Phối hợp với Bộ Công an, cơ quan nhà nước có thẩm quyền trong bảo vệ dữ liệu cá nhân, cung cấp thông tin phục vụ điều tra, xử...
+
+STEP 2: RERANKING (TOP 3)
+  [0] Score: 0.9993 | Source: Nghi_dinh_so_13.md
+      Text: [Ngữ cảnh: Đoạn văn nói về trách nhiệm của bên xử lý dữ liệu cá nhân.]
+
+7. Phối hợp với Bộ Công an, cơ quan nhà nước có thẩm quyền trong bảo vệ dữ liệu cá nhân, cung cấp thông tin phục vụ điều tra, xử...
+  [1] Score: 0.9993 | Source: Nghi_dinh_so_13.md
+      Text: [Ngữ cảnh: Đoạn văn nói về trách nhiệm của bên xử lý dữ liệu cá nhân.]
+
+ệu cá nhân.
+
+2. Xử lý dữ liệu cá nhân theo đúng hợp đồng hoặc thỏa thuận ký kết với Bên Kiểm soát dữ liệu cá nhân.
+
+3. Thực hiện...
+  [2] Score: 0.9983 | Source: Nghi_dinh_so_13.md
+      Text: [Ngữ cảnh: Đoạn văn nói về trách nhiệm của bên xử lý dữ liệu cá nhân.]
+
+ủa Bên Kiểm soát và xử lý dữ liệu
+Thực hiện đầy đủ các quy định về trách nhiệm của Bên Kiểm soát dữ liệu cá nhân và Bên Xử lý dữ...
+
+STEP 3: GENERATED ANSWER
+Answer: Bên Xử lý dữ liệu cá nhân có trách nhiệm chi tiết nhận dữ liệu cá nhân theo hợp đồng hoặc thỏa thuận, xử lý dữ liệu theo đúng hợp đồng, thực hiện các biện pháp bảo vệ dữ liệu cá nhân, chịu trách nhiệm trước chủ thể dữ liệu về thiệt hại do quá trình xử lý gây ra, xóa hoặc trả lại toàn bộ dữ liệu cá nhân sau khi kết thúc xử lý, và phối hợp với Bộ Công an trong bảo vệ dữ liệu cá nhân.
+==================================================

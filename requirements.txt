@@ -1,0 +1,17 @@
+datasets
+groq
+langchain-community
+langchain-openai
+numpy
+openai
+pandas
+presidio-analyzer
+presidio-anonymizer
+pytest
+qdrant-client
+ragas
+rapidfuzz
+rank-bm25
+scikit-learn
+sentence-transformers
+underthesea
